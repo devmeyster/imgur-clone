@@ -1,20 +1,20 @@
 ReactStarter
 ====
 
-Use this as a starting point for working on chapters of the [Learn and Understand React JS](https://www.udemy.com/learn-and-understand-reactjs/) course on Udemy.com.
+This is an Imgur clone built in React.js using Flux architecture and Imgur Api.
 
 ---
 
 ###Getting Started###
 
-There are two methods for getting started with this repo.
+There are two methods for getting started with this project.
 
 ####Familiar with Git?#####
 Checkout this repo, install depdencies, then start the gulp process with the following:
 
 ```
-	> git clone git@github.com:StephenGrider/ReactStarter.git
-	> cd ReactStarter
+	> git clone https://github.com/devmeyster/imgur-clone.git
+	> cd imgur-clone
 	> npm install
 	> gulp
 ```
