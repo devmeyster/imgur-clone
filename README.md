@@ -1,4 +1,4 @@
-ReactStarter
+Imgur-Clone
 ====
 
 This is an Imgur clone built in React.js using Flux architecture and Imgur Api.
